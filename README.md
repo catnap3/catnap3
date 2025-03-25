@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a NLP Data Scientist in Ad industry.
-- 🌱 I’m currently learning !
+- 🌱 I’m currently learning Natural Language Processing!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raiki-k-5b8598216/)
 <br>
 
